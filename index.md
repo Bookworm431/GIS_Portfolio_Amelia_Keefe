@@ -7,7 +7,7 @@ I am an undergraduate student at the University of Central Florida studying sust
 My work sits at the intersection of computer engineering and geospatial analysis. I focus on utilizing Python, spatial modeling, and web GIS tools to manage spatial data, automate workflows, and develop interactive mapping applications. I am particularly interested in applying these technical skills to environmental sustainability, resource management, and location-based data challenges.
 
 ## Education
-**Sustainability**  
+**Sustainability**
 ### University of Central Florida
 Expected Graduation: 2027
 
@@ -15,7 +15,7 @@ Expected Graduation: 2027
 ### University of Central Florida
 Expected Graduation: 2028
 
-**GIS Certificate**  
+**GIS Certificate**
 ### University of Central Florida
 Completed: 2025
 
@@ -23,7 +23,7 @@ Completed: 2025
 ### University of Central Florida
 Expected Graduation: 2028
 
-**Associate of Arts**  
+**Associate of Arts**
 ### Eastern Florida State College
 Completed: 2024
 
@@ -40,22 +40,31 @@ Completed: 2024
 - Java
 
 ## Projects
-- [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - **SAMPLE** - A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.
-
-## Problem/Question
-- [Project 2 Title](projects/project2.md) - [One sentence description]
+- [Address Geocoding Atlanta](projects/Address_Geocoding_Atlanta) - Address geocoding and spatial data processing for Atlanta.
+- [Census Data Orange County](projects/Census_Data_Orange_County) - Census demographic mapping and data analysis for Orange County.
+- [Exam 01 Population Density](projects/Exam_01_Population_Density) - Population density analysis and classification.
+- [Factory Wetland Impacts](projects/Factory_Wetland_Impacts) - Assessing industrial impacts on local wetlands using spatial overlay.
+- [Field Data Collection](projects/Field_Data_Collection) - Mobile data collection and GNSS/GPS survey documentation.
+- [Housing Availability Mexico](projects/Housing_Availibilty_Mexico) - Spatial evaluation of housing availability and distribution.
+- [Lake Sample Locations Orange County FL](projects/Lake_Sample_Locations_Orange_County_FL) - Water sample site mapping and spatial distribution in Orange County.
+- [NYC Various Spatial Analysis](projects/NYC_Various) - Lab report covering advanced spatial analysis techniques in New York City.
+- [Pollution & Poverty Pittsburgh](projects/Pollution_Poverty_Pittsburg) - Environmental justice analysis correlating pollution levels with demographic data.
+- [Spatial Modelbuilder Wetland Impacts](projects/Spatial_Modelbuilder_Wetland_Impacts) - Automated geoprocessing workflows using ArcGIS ModelBuilder for wetland impact assessments.
+- [Wetland Digitizing](projects/Wetland_Digitizing) - Manual feature extraction and vector digitizing of wetland boundaries.
+- [Wetland Impact Survey](projects/Wetland_Impact_Survey) - Survey documentation evaluating environmental footprint constraints.
+- [Wetland Sample Locations Orange County FL](projects/Wetland_Sample_Locations_Orange_County_FL) - Mapping and coordinate documentation for field sampling sites.
 
 ## Database Design & Data Modeling
-- [Database Projects](database/database-projects.md)
+- [Database Projects](database/database-projects.md) - Spatial geodatabase designs and data modeling documentation.
 
 ## Web Applications
-- [Link to ArcGIS Online Dashboards, Experience Builder apps, StoryMaps, etc.]
+- [ArcGIS Online & Experience Builder Portfolio](https://www.arcgis.com) - Interactive dashboards, web mapping applications, and StoryMaps.
 
 ## Writing & Posters
-- [Link to writing samples page](writing/writing-samples.md)
-- [Link to posters page](posters/posters.md)
+- [Writing Samples](writing/writing-samples.md) - Research papers, technical reports, and documentation.
+- [Posters](posters/posters.md) - Academic and professional poster presentations.
 
 ## Contact
 - Email: maia.keefe@gmail.com
-- GitHub: github.com/Bookworm431
-- LinkedIn: www.linkedin.com/in/amelia-keefe
+- GitHub: [github.com/Bookworm431](https://github.com/Bookworm431)
+- LinkedIn: [www.linkedin.com/in/amelia-keefe](https://www.linkedin.com/in/amelia-keefe)
