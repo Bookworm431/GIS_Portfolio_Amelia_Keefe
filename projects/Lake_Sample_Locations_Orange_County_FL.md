@@ -16,7 +16,7 @@ I used the select tool to make a layer of only wetland data (FLUCCs codes) and u
 - Geodatabase Data Management and Permissions
 
 ## Outputs
-![Lake Sample Locations Map](../images/Lecture_01_Map.png)
+![Lake Sample Locations Map](../images/Lecture_01_Keefe.png)
 
 ---
 [← Back to Portfolio](../index.md)
