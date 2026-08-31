@@ -20,6 +20,6 @@ Prepared a professional, landscape-oriented map at a scale of 1” = 500 feet il
 * Cartographic Layout Design & Professional Standardization
 
 ## Outputs
-[Practical Exam #02 Map](images/Exam_02_Keefe/Exam_02_Keefe-1.png)
+[Practical Exam #02 Map](../images/Exam_02_Keefe/Exam_02_Keefe-1.png)
 ---
 [← Back to Portfolio](../index.md)
