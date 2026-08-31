@@ -20,7 +20,7 @@ Analyzed and mapped sociodemographic phenomena within a targeted area of Orange 
 * Professional Map Layout Design & Margin Standardization
 
 ## Outputs
-[View Census Data Map (PDF)](Lab_07_Keefe.pdf)
+![View Census Data Map](../images/Lab_07_Keefe/Lab_07_Keefe-1.png)
 
 ---
 [← Back to Portfolio](../index.md)
