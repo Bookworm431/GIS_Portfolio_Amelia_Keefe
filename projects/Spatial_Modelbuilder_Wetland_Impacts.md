@@ -24,4 +24,4 @@ Automated the wetland impact quantification workflow using ArcGIS Pro ModelBuild
 ![Wetland Impact Model Output](../images/gis_chart.txt)
 
 ---
-[Back to Portfolio](../README.md)
+[← Back to Portfolio](../index.md)
