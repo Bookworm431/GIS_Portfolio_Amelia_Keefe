@@ -18,7 +18,7 @@ Evaluated the spatial relationship between industrial facilities and urban popul
 - Cartographic Visual Hierarchy & Basemap Management
 
 ## Outputs
-![Pittsburgh Environmental Justice Map](../images/SYA 4354_ Lab 4-1.png)
+![Pittsburgh Environmental Justice Map](../images/SYA4354_ Lab 4-1.png)
 
 ## Challenges & Solutions
 - **Challenge:** Managing visual clutter when overlapping complex industrial buffer zones with dense urban demographic layers.  
