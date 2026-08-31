@@ -19,7 +19,7 @@ Prepare a map of Mexico showing housing density (expressed as persons per househ
 * Cartographic Design & Visual Hierarchy
 
 ## Outputs
-[View Lab 2 Map & Report (PDF)](Lab_02_Keefe.pdf)
+![View Lab 2 Map & Report](..?images/Lab_02_Keefe.pdf)
 
 ---
 [← Back to Portfolio](../index.md)
