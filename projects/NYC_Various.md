@@ -19,7 +19,11 @@ Analyzed spatial relationships across New York City by integrating and visualizi
 - Multi-Layer Spatial Overlay & Pattern Interpretation
 
 ## Outputs
-![Lab 3 New York City Spatial Analysis Map](../images/lab-3-nyc-map.png)
+![Lab 3 New York City Spatial Analysis Map](../images/SYA_Lab3-1.png)
+![Lab 3 New York City Spatial Analysis Map](../images/SYA_Lab3-2.png)
+![Lab 3 New York City Spatial Analysis Map](../images/SYA_Lab3-3.png)
+![Lab 3 New York City Spatial Analysis Map](../images/SYA_Lab3-4.png)
+![Lab 3 New York City Spatial Analysis Map](../images/SYA_Lab3-5.png)
 
 ## Challenges & Solutions
 - **Challenge:** Identifying a reliable and unbiased dataset to measure localized human happiness or life satisfaction.  
