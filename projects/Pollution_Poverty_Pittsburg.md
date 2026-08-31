@@ -28,4 +28,4 @@ Evaluated the spatial relationship between industrial facilities and urban popul
 - Data Sources: EPA Toxic Release Inventory (TRI), Census Bureau Demographics, OpenStreetMap
 
 ---
-[Back to Portfolio](../README.md)
+[← Back to Portfolio](../index.md)
