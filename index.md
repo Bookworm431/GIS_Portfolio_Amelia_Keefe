@@ -1,15 +1,31 @@
-# [Your Name]
+# Amelia Keefe
 
 ## About
-[1-2 sentences about your academic focus or career interests in GIS/Remote Sensing]
+I am an undergraduate student at the University of Central Florida studying sustainability and computer engineering with a strong background in Geographic Information Systems (GIS). I am passionate about leveraging spatial analysis, programming, and spatial data science to solve complex, real-world problems.
 
 ## Background & Area of Focus
-[1-2 sentences about your area of focus or field of interest - e.g., environmental science, urban planning, forestry, public health, etc. What problems do you want to solve with GIS?]
+My work sits at the intersection of computer engineering and geospatial analysis. I focus on utilizing Python, spatial modeling, and web GIS tools to manage spatial data, automate workflows, and develop interactive mapping applications. I am particularly interested in applying these technical skills to environmental sustainability, resource management, and location-based data challenges.
 
 ## Education
-**Geospatial Science**  
-### Front Range Community College
-Expected Graduation: [Month Year]
+**Sustainability**  
+### University of Central Florida
+Expected Graduation: 2027
+
+**Theme Park & Attraction Management**
+### University of Central Florida
+Expected Graduation: 2028
+
+**GIS Certificate**  
+### University of Central Florida
+Completed: 2025
+
+**Computer Science Minor**
+### University of Central Florida
+Expected Graduation: 2028
+
+**Associate of Arts**  
+### Eastern Florida State College
+Completed: 2024
 
 ## Skills
 ### GIS & Remote Sensing
@@ -18,7 +34,10 @@ Expected Graduation: [Month Year]
 - [Analysis techniques]
 
 ### Programming & Data Analysis
-- [Languages/tools]
+- C
+- C++
+- Python
+- Java
 
 ## Projects
 - [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - **SAMPLE** - A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.
@@ -37,7 +56,6 @@ Expected Graduation: [Month Year]
 - [Link to posters page](posters/posters.md)
 
 ## Contact
-- Email: [your.email@student.cccs.edu]
-    - Remember: Your student email is purged 6 months after graduation/completion!
-- GitHub: [github.com/yourusername]
-- LinkedIn: [optional]
+- Email: maia.keefe@gmail.com
+- GitHub: github.com/Bookworm431
+- LinkedIn: www.linkedin.com/in/amelia-keefe
