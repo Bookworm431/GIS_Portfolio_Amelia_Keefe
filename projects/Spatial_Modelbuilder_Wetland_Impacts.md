@@ -20,8 +20,9 @@ Automated the wetland impact quantification workflow using ArcGIS Pro ModelBuild
 * Professional Model Documentation & Layout Export
 
 ## Outputs
-[View ModelBuilder Workflow Diagram (PDF)](Model_05_Keefe.pdf)  
-![Wetland Impact Model Output](../images/gis_chart.txt)
+First model had information jumbled during file conversion
+![ModelBuilder Workflow Diagram](../images/Model_05_Keefe.png)  
+![Wetland Impact Model Output](../images/gis_chart.png)
 
 ---
 [← Back to Portfolio](../index.md)
