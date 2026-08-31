@@ -58,9 +58,11 @@ Completed: 2024
 //- [Database Projects](database/database-projects.md) - Spatial geodatabase designs and data modeling //documentation.
 //## Web Applications
 //- [ArcGIS Online & Experience Builder Portfolio](https://www.arcgis.com) - Interactive dashboards, web mapping //applications, and StoryMaps.-->
-## Writing & Posters
-- [Writing Samples](writing/writing-samples.md) - Research papers, technical reports, and documentation.
-- [Posters](posters/posters.md) - Academic and professional poster presentations.
+## Research Papers
+- [SYA4354 Final Paper](SYA4354%20Final%20Paper%20(1).pdf) - Final research paper analyzing social or demographic spatial patterns.
+
+## Lab Reports & Technical Reports
+- [Lab 2 Report: Keefe Amelia](Keefe_Amelia_Lab2.pdf) - Technical documentation and spatial analysis report for Lab 2.
   
 ## Contact
 - Email: maia.keefe@gmail.com
