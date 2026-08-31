@@ -20,7 +20,7 @@ Conducted a detailed wetland impact analysis for a proposed factory footprint an
 * Professional Layout Design & Scale Management
 
 ## Outputs
-![View Factory Project Wetland Impacts Map](images/Lab_04_Keefe.png)
+![View Factory Project Wetland Impacts Map](../images/Lab_04_Keefe.png)
 
 ---
 [← Back to Portfolio](../index.md)
