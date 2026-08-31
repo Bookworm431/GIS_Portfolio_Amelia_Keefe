@@ -19,4 +19,4 @@ I used the select tool to make a layer of only wetland data (FLUCCs codes) and u
 ![Lake Sample Locations Map](../images/Lecture_01_Map.png)
 
 ---
-[Back to Portfolio](../README.md)
+[← Back to Portfolio](../index.md)
