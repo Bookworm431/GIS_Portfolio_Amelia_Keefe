@@ -29,9 +29,9 @@ Completed: 2024
 
 ## Skills
 ### GIS & Remote Sensing
-- [List relevant technical skills]
-- [Software proficiencies]
-- [Analysis techniques]
+- **Software:** ArcGIS Pro, ArcGIS Online, QGIS, Experience Builder, Dashboards
+- **Core Skills:** Spatial Analysis, Geodatabase Design, Web Mapping, Cartography
+- **Techniques:** Viewshed Analysis, Network Analysis, Spatial Modeling, Overlay Analysis
 
 ### Programming & Data Analysis
 - C
