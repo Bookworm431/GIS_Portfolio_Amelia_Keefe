@@ -23,4 +23,4 @@ Digitized missing wetland polygons within the Factory Project site using high-re
 [View Wetland Digitizing Map (PDF)](Lab_03_Keefe.pdf)
 
 ---
-[Back to Portfolio](../README.md)
+[← Back to Portfolio](../index.md)
