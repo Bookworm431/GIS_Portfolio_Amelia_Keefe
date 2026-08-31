@@ -40,19 +40,19 @@ Completed: 2024
 - Java
 
 ## Projects
-- [Address Geocoding Atlanta](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Address_Geocoding_Atlanta) - Address geocoding and spatial data processing for Atlanta.
-- [Census Data Orange County](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Census_Data_Orange_County) - Census demographic mapping and data analysis for Orange County.
-- [Exam 01 Population Density](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Exam_01_Population_Density) - Population density analysis and classification.
-- [Factory Wetland Impacts](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Factory_Wetland_Impacts) - Assessing industrial impacts on local wetlands using spatial overlay.
-- [Field Data Collection](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Field_Data_Collection) - Mobile data collection and GNSS/GPS survey documentation.
-- [Housing Availability Mexico](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Housing_Availibilty_Mexico) - Spatial evaluation of housing availability and distribution.
-- [Lake Sample Locations Orange County FL](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Lake_Sample_Locations_Orange_County_FL) - Water sample site mapping and spatial distribution in Orange County.
-- [NYC Various Spatial Analysis](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/NYC_Various) - Lab report covering advanced spatial analysis techniques in New York City.
-- [Pollution & Poverty Pittsburgh](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Pollution_Poverty_Pittsburg) - Environmental justice analysis correlating pollution levels with demographic data.
-- [Spatial Modelbuilder Wetland Impacts](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Spatial_Modelbuilder_Wetland_Impacts) - Automated geoprocessing workflows using ArcGIS ModelBuilder for wetland impact assessments.
-- [Wetland Digitizing](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Wetland_Digitizing) - Manual feature extraction and vector digitizing of wetland boundaries.
-- [Wetland Impact Survey](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Wetland_Impact_Survey) - Survey documentation evaluating environmental footprint constraints.
-- [Wetland Sample Locations Orange County FL](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Wetland_Sample_Locations_Orange_County_FL) - Mapping and coordinate documentation for field sampling sites.
+- [Address Geocoding Atlanta](projects/Address_Geocoding_Atlanta.md) - Address geocoding and spatial data processing for Atlanta.
+- [Census Data Orange County](projects/Census_Data_Orange_County.md) - Census demographic mapping and data analysis for Orange County.
+- [Exam 01 Population Density](projects/Exam_01_Population_Density.md) - Population density analysis and classification.
+- [Factory Wetland Impacts](projects/Factory_Wetland_Impacts.md) - Assessing industrial impacts on local wetlands using spatial overlay.
+- [Field Data Collection](projects/Field_Data_Collection.md) - Mobile data collection and GNSS/GPS survey documentation.
+- [Housing Availability Mexico](projects/Housing_Availibilty_Mexico.md) - Spatial evaluation of housing availability and distribution.
+- [Lake Sample Locations Orange County FL](projects/Lake_Sample_Locations_Orange_County_FL.md) - Water sample site mapping and spatial distribution in Orange County.
+- [NYC Various Spatial Analysis](projects/NYC_Various.md) - Lab report covering advanced spatial analysis techniques in New York City.
+- [Pollution & Poverty Pittsburgh](projects/Pollution_Poverty_Pittsburg.md) - Environmental justice analysis correlating pollution levels with demographic data.
+- [Spatial Modelbuilder Wetland Impacts](projects/Spatial_Modelbuilder_Wetland_Impacts.md) - Automated geoprocessing workflows using ArcGIS ModelBuilder for wetland impact assessments.
+- [Wetland Digitizing](projects/Wetland_Digitizing.md) - Manual feature extraction and vector digitizing of wetland boundaries.
+- [Wetland Impact Survey](projects/Wetland_Impact_Survey.md) - Survey documentation evaluating environmental footprint constraints.
+- [Wetland Sample Locations Orange County FL](projects/Wetland_Sample_Locations_Orange_County_FL.md) - Mapping and coordinate documentation for field sampling sites.
 
 <!--//## Database Design & Data Modeling
 //- [Database Projects](database/database-projects.md) - Spatial geodatabase designs and data modeling //documentation.
