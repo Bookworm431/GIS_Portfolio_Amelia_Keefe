@@ -54,13 +54,13 @@ Completed: 2024
 - [Wetland Impact Survey](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Wetland_Impact_Survey) - Survey documentation evaluating environmental footprint constraints.
 - [Wetland Sample Locations Orange County FL](https://github.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/tree/main/projects/Wetland_Sample_Locations_Orange_County_FL) - Mapping and coordinate documentation for field sampling sites.
 
-//## Database Design & Data Modeling
+<!--//## Database Design & Data Modeling
 //- [Database Projects](database/database-projects.md) - Spatial geodatabase designs and data modeling //documentation.
 //## Web Applications
 //- [ArcGIS Online & Experience Builder Portfolio](https://www.arcgis.com) - Interactive dashboards, web mapping //applications, and StoryMaps.
 //## Writing & Posters
 //- [Writing Samples](writing/writing-samples.md) - Research papers, technical reports, and documentation.
-//- [Posters](posters/posters.md) - Academic and professional poster presentations.
+//- [Posters](posters/posters.md) - Academic and professional poster presentations. -->
 ## Contact
 - Email: maia.keefe@gmail.com
 - GitHub: [github.com/Bookworm431](https://github.com/Bookworm431)
