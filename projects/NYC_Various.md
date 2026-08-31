@@ -29,4 +29,4 @@ Analyzed spatial relationships across New York City by integrating and visualizi
 - Data Sources: New York City Open Data, Census Bureau Income Statistics, Municipal Service Records
 
 ---
-[Back to Portfolio](../README.md)
+[← Back to Portfolio](../index.md)
