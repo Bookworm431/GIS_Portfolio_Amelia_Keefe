@@ -18,8 +18,6 @@ Conducted a spatial analysis to determine how many homes in the Tampa Bay area w
 ### Tools Used
 ArcGIS Pro, Union Tool, Select by Attribute, Clip, Spatial Overlay Analysis
 
-![Poster Thumbnail](../images/IP_Map_Thumb.png)
-
-[Download Full Poster (PDF)](IP_Map_Keefe.pdf)
+![Poster Thumbnail](../images/IP_Map_Keefe.png)
 
 [Back to Portfolio](../index.md)
