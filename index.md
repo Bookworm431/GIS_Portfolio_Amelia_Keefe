@@ -57,10 +57,11 @@ Completed: 2024
 <!--//## Database Design & Data Modeling
 //- [Database Projects](database/database-projects.md) - Spatial geodatabase designs and data modeling //documentation.
 //## Web Applications
-//- [ArcGIS Online & Experience Builder Portfolio](https://www.arcgis.com) - Interactive dashboards, web mapping //applications, and StoryMaps.
-//## Writing & Posters
-//- [Writing Samples](writing/writing-samples.md) - Research papers, technical reports, and documentation.
-//- [Posters](posters/posters.md) - Academic and professional poster presentations. -->
+//- [ArcGIS Online & Experience Builder Portfolio](https://www.arcgis.com) - Interactive dashboards, web mapping //applications, and StoryMaps.-->
+## Writing & Posters
+- [Writing Samples](writing/writing-samples.md) - Research papers, technical reports, and documentation.
+- [Posters](posters/posters.md) - Academic and professional poster presentations.
+  
 ## Contact
 - Email: maia.keefe@gmail.com
 - GitHub: [github.com/Bookworm431](https://github.com/Bookworm431)
