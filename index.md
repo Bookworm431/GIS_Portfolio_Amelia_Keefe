@@ -62,7 +62,7 @@ Completed: 2024
 - [SYA4354 Final Paper](writing/SYA4354_Final_Paper.pdf) - Final research paper analyzing social or demographic spatial patterns.
 
 ## Lab Reports & Technical Reports
-- [Lab 2 Report: Keefe Amelia](Keefe_Amelia_Lab2.pdf) - Technical documentation and spatial analysis report for Lab 2.
+- [Lab 2 Report: Keefe Amelia](writing/Keefe_Amelia_Lab2.pdf) - Technical documentation and spatial analysis report for Lab 2.
   
 ## Contact
 - Email: maia.keefe@gmail.com
