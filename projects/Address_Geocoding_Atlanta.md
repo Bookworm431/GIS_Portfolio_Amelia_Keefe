@@ -23,4 +23,4 @@ Geocoded customer address data within the Atlanta metropolitan area using a cust
 [View Geocoding Map (PDF)](Lab_06_Keefe.pdf)
 
 ---
-[Back to Portfolio](../README.md)
+[← Back to Portfolio](../index.md)
