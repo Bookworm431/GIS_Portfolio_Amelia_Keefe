@@ -59,7 +59,7 @@ Completed: 2024
 //## Web Applications
 //- [ArcGIS Online & Experience Builder Portfolio](https://www.arcgis.com) - Interactive dashboards, web mapping //applications, and StoryMaps.-->
 ## Research Papers
-- [SYA4354 Final Paper](SYA4354%20Final%20Paper%20(1).pdf) - Final research paper analyzing social or demographic spatial patterns.
+- [SYA4354 Final Paper](writing/SYA4354_Final_Paper.pdf) - Final research paper analyzing social or demographic spatial patterns.
 
 ## Lab Reports & Technical Reports
 - [Lab 2 Report: Keefe Amelia](Keefe_Amelia_Lab2.pdf) - Technical documentation and spatial analysis report for Lab 2.
