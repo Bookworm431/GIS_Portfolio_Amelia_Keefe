@@ -60,9 +60,10 @@ Completed: 2024
 //- [ArcGIS Online & Experience Builder Portfolio](https://www.arcgis.com) - Interactive dashboards, web mapping //applications, and StoryMaps.-->
 ## Research Papers
 - [SYA4354 Final Paper](writing/SYA4354_Final_Paper.pdf) - Final research paper analyzing social or demographic spatial patterns.
-
-## Lab Reports & Technical Reports
 - [Lab 2 Report: Keefe Amelia](writing/Keefe_Amelia_Lab2.pdf) - Technical documentation and spatial analysis report for Lab 2.
+
+## Posters
+- [Academic Poster Presentation](posters/Independent_Project_3043C.md) - Flooded Homes in the Tampa Bay Area with Respect to Flood Plains
   
 ## Contact
 - Email: maia.keefe@gmail.com
