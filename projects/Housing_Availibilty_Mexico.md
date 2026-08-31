@@ -20,7 +20,7 @@ Prepare a map of Mexico showing housing density (expressed as persons per househ
 
 ## Outputs
 File had information jumbled during format transer
-![Lab 2 Map & Report](../images/Lab_02_Keefe.png)
+![Lab 2 Map & Report](../images/Lab_02_Keefe/Lab_02_Keefe-1.png)
 
 ---
 [← Back to Portfolio](../index.md)
