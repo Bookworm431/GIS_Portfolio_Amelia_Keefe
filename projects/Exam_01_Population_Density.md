@@ -20,7 +20,7 @@ Created a professional choropleth map of the lower 48 contiguous United States d
 * Map Layout & Scale Management
 
 ## Outputs
-[View Practical Exam Map (PDF)](Exam_01_Keefe.pdf)
+![View Practical Exam Map](../images/Exam_01_Amelia_Keefe.png)
 
 ---
 [← Back to Portfolio](../index.md)
