@@ -20,7 +20,7 @@ Geocoded customer address data within the Atlanta metropolitan area using a cust
 * Basemap Integration & Cartographic Hierarchy
 
 ## Outputs
-[View Geocoding Map (PDF)](Lab_06_Keefe.pdf)
+![View Geocoding Map](../images/Lab_06_Keefe/Lab_06_Keefe-1.png)
 
 ---
 [← Back to Portfolio](../index.md)
