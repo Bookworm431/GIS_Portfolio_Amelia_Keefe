@@ -20,7 +20,7 @@ Digitized missing wetland polygons within the Factory Project site using high-re
 * Cartographic Scale Management & Layout Design
 
 ## Outputs
-[View Wetland Digitizing Map (PDF)](Lab_03_Keefe.pdf)
+![Wetland Digitizing Map](../images/Lab_03_Keefe.png)
 
 ---
 [← Back to Portfolio](../index.md)
