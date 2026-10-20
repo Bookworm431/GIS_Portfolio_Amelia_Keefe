@@ -63,10 +63,15 @@
       margin-bottom: 6px;
     }
 
-    p, ul, li {
+    p, ul, li, a {
       margin: 0;
       font-size: 13.5px;
       color: var(--ink);
+    }
+
+    a {
+      color: var(--highlight);
+      text-decoration: none;
     }
 
     .header-row {
@@ -161,8 +166,35 @@
       gap: 18px;
     }
 
-    .section-spacer {
-      margin-top: 8px;
+    .project-gallery {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 10px;
+    }
+
+    .project-gallery figure {
+      margin: 0;
+      border: 1px solid var(--line);
+      background: #fafcfd;
+      padding: 8px;
+      page-break-inside: avoid;
+    }
+
+    .project-gallery img {
+      display: block;
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      border: 1px solid var(--line);
+      background: #edf3f5;
+    }
+
+    .project-gallery figcaption {
+      font-size: 11.5px;
+      color: var(--muted);
+      margin-top: 6px;
+      line-height: 1.35;
     }
 
     @media print {
@@ -184,7 +216,7 @@
         padding: 0;
       }
 
-      .card, .project-item {
+      .card, .project-item, .project-gallery figure {
         break-inside: avoid;
       }
     }
@@ -196,7 +228,7 @@
       <div>
         <h1>Amelia Keefe</h1>
         <div class="summary">
-          Undergraduate GIS and sustainability student at the University of Central Florida with a focus on spatial analysis, geospatial modeling, map design, and Python-driven workflows.
+          Undergraduate GIS and sustainability student at the University of Central Florida with a focus on spatial analysis, geospatial modeling, cartography, and Python-driven data workflows.
         </div>
       </div>
       <div class="contact">
@@ -211,7 +243,7 @@
       <div class="grid">
         <div class="card">
           <h3>About</h3>
-          <p>I am an undergraduate student at the University of Central Florida studying sustainability and computer engineering with a strong background in Geographic Information Systems (GIS). My work sits at the intersection of computer engineering and geospatial analysis, with a focus on Python, spatial modeling, and web GIS tools to manage spatial data, automate workflows, and support decision-making.</p>
+          <p>I am an undergraduate student at the University of Central Florida studying sustainability and computer engineering with a strong background in Geographic Information Systems (GIS). My work sits at the intersection of geospatial analysis, environmental problem-solving, and data-driven storytelling.</p>
         </div>
         <div class="card">
           <h3>Areas of Focus</h3>
@@ -233,15 +265,13 @@
           <div class="school">University of Central Florida</div>
           <div class="meta">Sustainability</div>
           <div class="meta">Expected Graduation: 2027</div>
-          <div class="meta">Theme Park & Attraction Management</div>
-          <div class="meta">Expected Graduation: 2028</div>
           <div class="meta">GIS Certificate</div>
           <div class="meta">Completed: 2025</div>
-          <div class="meta">Computer Science Minor</div>
-          <div class="meta">Expected Graduation: 2028</div>
         </div>
         <div class="card">
           <div class="school">Eastern Florida State College</div>
+          <div class="meta">AI-Enhanced Data Science BAS</div>
+          <div class="meta">Expected Graduation: 2028</div>
           <div class="meta">Associate of Arts</div>
           <div class="meta">Completed: 2024</div>
         </div>
@@ -303,6 +333,28 @@
     </section>
 
     <section>
+      <h2>Project Visuals</h2>
+      <div class="project-gallery">
+        <figure>
+          <img src="https://raw.githubusercontent.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/main/images/Exam_01_Amelia_Keefe.png" alt="Population density map" />
+          <figcaption>Population density analysis</figcaption>
+        </figure>
+        <figure>
+          <img src="https://raw.githubusercontent.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/main/images/Project%203-1.png" alt="Project map 1" />
+          <figcaption>Spatial project output</figcaption>
+        </figure>
+        <figure>
+          <img src="https://raw.githubusercontent.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/main/images/IP_Map_Keefe.png" alt="Independent project map" />
+          <figcaption>Independent project map</figcaption>
+        </figure>
+        <figure>
+          <img src="https://raw.githubusercontent.com/Bookworm431/GIS_Portfolio_Amelia_Keefe/main/images/Lab_04_Keefe.png" alt="GIS lab map" />
+          <figcaption>GIS lab analysis output</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section>
       <h2>Research Papers & Writing Samples</h2>
       <div class="two-col">
         <div class="card">
@@ -327,7 +379,7 @@
     <section>
       <h2>Portfolio Notes</h2>
       <div class="card">
-        <p>This portfolio is organized as a summary of work contained in the GIS Portfolio repository for Amelia Keefe. It is intended to be a clean, printable PDF version for academic, internship, or interview use. The original repository includes detailed project documentation and additional GIS artifacts.</p>
+        <p>This portfolio is organized as a summary of work contained in the GIS Portfolio repository for Amelia Keefe. It is intended to be a clean, printable PDF version for academic, internship, and professional review.</p>
       </div>
     </section>
 
