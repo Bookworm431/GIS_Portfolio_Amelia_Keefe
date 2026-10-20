@@ -11,17 +11,13 @@ My work sits at the intersection of computer engineering and geospatial analysis
 ### University of Central Florida
 Expected Graduation: 2027
 
-**Theme Park & Attraction Management**
-### University of Central Florida
+**AI-Enhanced Data Science BAS**
+### Eastern Florida State College
 Expected Graduation: 2028
 
 **GIS Certificate**
 ### University of Central Florida
 Completed: 2025
-
-**Computer Science Minor**
-### University of Central Florida
-Expected Graduation: 2028
 
 **Associate of Arts**
 ### Eastern Florida State College
