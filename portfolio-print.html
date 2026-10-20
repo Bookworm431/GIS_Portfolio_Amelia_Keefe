@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Amelia Keefe GIS Portfolio</title>
+  <style>
+    :root {
+      --bg: #f5f7f8;
+      --paper: #ffffff;
+      --ink: #1f2a37;
+      --muted: #4b5563;
+      --line: #dfe7ee;
+      --accent: #0f4c5c;
+      --accent-soft: #e7f3f5;
+      --highlight: #2f6f8f;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.45;
+    }
+
+    body {
+      padding: 32px;
+    }
+
+    .page {
+      max-width: 980px;
+      margin: 0 auto;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      box-shadow: 0 3px 12px rgba(0,0,0,.06);
+      padding: 32px 38px 24px;
+    }
+
+    h1, h2, h3 {
+      margin: 0 0 10px 0;
+      color: var(--accent);
+    }
+
+    h1 {
+      font-size: 28px;
+      letter-spacing: 0.02em;
+    }
+
+    h2 {
+      font-size: 18px;
+      border-bottom: 2px solid var(--line);
+      padding-bottom: 6px;
+      margin-top: 18px;
+      margin-bottom: 12px;
+    }
+
+    h3 {
+      font-size: 15px;
+      margin-bottom: 6px;
+    }
+
+    p, ul, li {
+      margin: 0;
+      font-size: 13.5px;
+      color: var(--ink);
+    }
+
+    .header-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 18px;
+      border-bottom: 2px solid var(--line);
+      padding-bottom: 14px;
+      margin-bottom: 12px;
+    }
+
+    .summary {
+      font-size: 13px;
+      color: var(--muted);
+      max-width: 560px;
+    }
+
+    .contact {
+      text-align: right;
+      font-size: 12.5px;
+      line-height: 1.6;
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1.1fr 1.3fr;
+      gap: 20px 18px;
+    }
+
+    .card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 12px 14px;
+      border-left: 4px solid var(--accent);
+      page-break-inside: avoid;
+    }
+
+    .card ul {
+      list-style: disc;
+      padding-left: 18px;
+      margin-top: 6px;
+    }
+
+    .card li + li {
+      margin-top: 4px;
+    }
+
+    .school {
+      font-weight: 700;
+      color: var(--ink);
+    }
+
+    .project-list {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px 14px;
+      margin-top: 8px;
+    }
+
+    .project-item {
+      border: 1px solid var(--line);
+      background: var(--accent-soft);
+      padding: 10px 12px;
+      page-break-inside: avoid;
+    }
+
+    .project-item strong {
+      display: block;
+      color: var(--accent);
+      margin-bottom: 4px;
+      font-size: 13px;
+    }
+
+    .project-item span {
+      font-size: 12px;
+      color: var(--muted);
+      display: block;
+    }
+
+    .meta {
+      font-size: 12px;
+      color: var(--muted);
+      font-style: italic;
+      margin-top: 4px;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+
+    .section-spacer {
+      margin-top: 8px;
+    }
+
+    @media print {
+      @page {
+        size: A4 portrait;
+        margin: 0.5in;
+      }
+
+      body {
+        background: white;
+        padding: 0;
+      }
+
+      .page {
+        box-shadow: none;
+        border: none;
+        max-width: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      .card, .project-item {
+        break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div class="header-row">
+      <div>
+        <h1>Amelia Keefe</h1>
+        <div class="summary">
+          Undergraduate GIS and sustainability student at the University of Central Florida with a focus on spatial analysis, geospatial modeling, map design, and Python-driven workflows.
+        </div>
+      </div>
+      <div class="contact">
+        maia.keefe@gmail.com<br />
+        <a href="https://github.com/Bookworm431" target="_blank">github.com/Bookworm431</a><br />
+        <a href="https://www.linkedin.com/in/amelia-keefe" target="_blank">linkedin.com/in/amelia-keefe</a>
+      </div>
+    </div>
+
+    <section>
+      <h2>Profile</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>About</h3>
+          <p>I am an undergraduate student at the University of Central Florida studying sustainability and computer engineering with a strong background in Geographic Information Systems (GIS). My work sits at the intersection of computer engineering and geospatial analysis, with a focus on Python, spatial modeling, and web GIS tools to manage spatial data, automate workflows, and support decision-making.</p>
+        </div>
+        <div class="card">
+          <h3>Areas of Focus</h3>
+          <ul>
+            <li>Geospatial analysis and cartography</li>
+            <li>Spatial modeling and overlay workflows</li>
+            <li>ArcGIS Pro, ArcGIS Online, QGIS, and Experience Builder</li>
+            <li>Python, C, C++, and Java</li>
+            <li>Environmental, demographic, and infrastructure mapping</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="two-col">
+        <div class="card">
+          <div class="school">University of Central Florida</div>
+          <div class="meta">Sustainability</div>
+          <div class="meta">Expected Graduation: 2027</div>
+          <div class="meta">Theme Park & Attraction Management</div>
+          <div class="meta">Expected Graduation: 2028</div>
+          <div class="meta">GIS Certificate</div>
+          <div class="meta">Completed: 2025</div>
+          <div class="meta">Computer Science Minor</div>
+          <div class="meta">Expected Graduation: 2028</div>
+        </div>
+        <div class="card">
+          <div class="school">Eastern Florida State College</div>
+          <div class="meta">Associate of Arts</div>
+          <div class="meta">Completed: 2024</div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <div class="two-col">
+        <div class="card">
+          <h3>GIS & Remote Sensing</h3>
+          <ul>
+            <li>ArcGIS Pro</li>
+            <li>ArcGIS Online</li>
+            <li>QGIS</li>
+            <li>Experience Builder</li>
+            <li>Dashboards</li>
+            <li>Spatial Analysis</li>
+            <li>Web Mapping</li>
+            <li>Cartography</li>
+            <li>Viewshed Analysis</li>
+            <li>Network Analysis</li>
+            <li>Overlay Analysis</li>
+            <li>Spatial Modeling</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Programming & Data Analysis</h3>
+          <ul>
+            <li>Python</li>
+            <li>C</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>Geoprocessing workflows</li>
+            <li>Spatial data cleaning and preparation</li>
+            <li>Geodatabase design</li>
+            <li>Field data management</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Featured Projects</h2>
+      <div class="project-list">
+        <div class="project-item"><strong>Address Geocoding Atlanta</strong><span>Address geocoding and spatial data processing for Atlanta.</span></div>
+        <div class="project-item"><strong>Census Data Orange County</strong><span>Census demographic mapping and data analysis for Orange County.</span></div>
+        <div class="project-item"><strong>Exam 01 Population Density</strong><span>Population density analysis and classification.</span></div>
+        <div class="project-item"><strong>Factory Wetland Impacts</strong><span>Assessing industrial impacts on local wetlands using spatial overlay.</span></div>
+        <div class="project-item"><strong>Field Data Collection</strong><span>Mobile data collection and GNSS/GPS survey documentation.</span></div>
+        <div class="project-item"><strong>Housing Availability Mexico</strong><span>Spatial evaluation of housing availability and distribution.</span></div>
+        <div class="project-item"><strong>Lake Sample Locations</strong><span>Water sample site mapping and spatial distribution in Orange County.</span></div>
+        <div class="project-item"><strong>NYC Spatial Analysis</strong><span>Lab report covering advanced spatial analysis techniques in New York City.</span></div>
+        <div class="project-item"><strong>Pollution & Poverty Pittsburgh</strong><span>Environmental justice analysis correlating pollution levels with demographic data.</span></div>
+        <div class="project-item"><strong>Spatial ModelBuilder Wetland Impacts</strong><span>Automated geoprocessing workflows using ArcGIS ModelBuilder.</span></div>
+        <div class="project-item"><strong>Wetland Digitizing</strong><span>Manual feature extraction and vector digitizing of wetland boundaries.</span></div>
+        <div class="project-item"><strong>Wetland Impact Survey</strong><span>Survey documentation evaluating environmental footprint constraints.</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Research Papers & Writing Samples</h2>
+      <div class="two-col">
+        <div class="card">
+          <h3>SYA4354 Final Paper</h3>
+          <p>Final research paper analyzing social or demographic spatial patterns.</p>
+        </div>
+        <div class="card">
+          <h3>Lab 2 Report: Keefe Amelia</h3>
+          <p>Technical documentation and spatial analysis report for Lab 2.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Poster Presentation</h2>
+      <div class="card">
+        <h3>Academic Poster Presentation</h3>
+        <p>Flooded Homes in the Tampa Bay Area with Respect to Flood Plains.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Portfolio Notes</h2>
+      <div class="card">
+        <p>This portfolio is organized as a summary of work contained in the GIS Portfolio repository for Amelia Keefe. It is intended to be a clean, printable PDF version for academic, internship, or interview use. The original repository includes detailed project documentation and additional GIS artifacts.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <div class="card">
+        <p>Email: maia.keefe@gmail.com<br />GitHub: github.com/Bookworm431<br />LinkedIn: linkedin.com/in/amelia-keefe</p>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
